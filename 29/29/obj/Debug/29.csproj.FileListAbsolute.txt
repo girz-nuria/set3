@@ -1,0 +1,7 @@
+C:\Users\girzn\Desktop\SET 3\29\29\bin\Debug\29.exe.config
+C:\Users\girzn\Desktop\SET 3\29\29\bin\Debug\29.exe
+C:\Users\girzn\Desktop\SET 3\29\29\bin\Debug\29.pdb
+C:\Users\girzn\Desktop\SET 3\29\29\obj\Debug\29.csproj.AssemblyReference.cache
+C:\Users\girzn\Desktop\SET 3\29\29\obj\Debug\29.csproj.CoreCompileInputs.cache
+C:\Users\girzn\Desktop\SET 3\29\29\obj\Debug\29.exe
+C:\Users\girzn\Desktop\SET 3\29\29\obj\Debug\29.pdb
