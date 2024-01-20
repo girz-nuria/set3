@@ -1,0 +1,7 @@
+C:\Users\girzn\Desktop\SET 3\23\23\bin\Debug\23.exe.config
+C:\Users\girzn\Desktop\SET 3\23\23\bin\Debug\23.exe
+C:\Users\girzn\Desktop\SET 3\23\23\bin\Debug\23.pdb
+C:\Users\girzn\Desktop\SET 3\23\23\obj\Debug\23.csproj.AssemblyReference.cache
+C:\Users\girzn\Desktop\SET 3\23\23\obj\Debug\23.csproj.CoreCompileInputs.cache
+C:\Users\girzn\Desktop\SET 3\23\23\obj\Debug\23.exe
+C:\Users\girzn\Desktop\SET 3\23\23\obj\Debug\23.pdb
