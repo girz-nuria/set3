@@ -1,0 +1,7 @@
+C:\Users\girzn\Desktop\SET 3\19\19\bin\Debug\19.exe.config
+C:\Users\girzn\Desktop\SET 3\19\19\bin\Debug\19.exe
+C:\Users\girzn\Desktop\SET 3\19\19\bin\Debug\19.pdb
+C:\Users\girzn\Desktop\SET 3\19\19\obj\Debug\19.csproj.AssemblyReference.cache
+C:\Users\girzn\Desktop\SET 3\19\19\obj\Debug\19.csproj.CoreCompileInputs.cache
+C:\Users\girzn\Desktop\SET 3\19\19\obj\Debug\19.exe
+C:\Users\girzn\Desktop\SET 3\19\19\obj\Debug\19.pdb
