@@ -1,0 +1,7 @@
+C:\Users\girzn\Desktop\SET 3\5\5\bin\Debug\5.exe.config
+C:\Users\girzn\Desktop\SET 3\5\5\bin\Debug\5.exe
+C:\Users\girzn\Desktop\SET 3\5\5\bin\Debug\5.pdb
+C:\Users\girzn\Desktop\SET 3\5\5\obj\Debug\5.csproj.AssemblyReference.cache
+C:\Users\girzn\Desktop\SET 3\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\girzn\Desktop\SET 3\5\5\obj\Debug\5.exe
+C:\Users\girzn\Desktop\SET 3\5\5\obj\Debug\5.pdb
