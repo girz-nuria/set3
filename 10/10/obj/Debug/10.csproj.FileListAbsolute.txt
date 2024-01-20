@@ -1,0 +1,7 @@
+C:\Users\girzn\Desktop\SET 3\10\10\bin\Debug\10.exe.config
+C:\Users\girzn\Desktop\SET 3\10\10\bin\Debug\10.exe
+C:\Users\girzn\Desktop\SET 3\10\10\bin\Debug\10.pdb
+C:\Users\girzn\Desktop\SET 3\10\10\obj\Debug\10.csproj.AssemblyReference.cache
+C:\Users\girzn\Desktop\SET 3\10\10\obj\Debug\10.csproj.CoreCompileInputs.cache
+C:\Users\girzn\Desktop\SET 3\10\10\obj\Debug\10.exe
+C:\Users\girzn\Desktop\SET 3\10\10\obj\Debug\10.pdb

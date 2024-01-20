@@ -1,0 +1,7 @@
+C:\Users\girzn\Desktop\SET 3\13\13\bin\Debug\13.exe.config
+C:\Users\girzn\Desktop\SET 3\13\13\bin\Debug\13.exe
+C:\Users\girzn\Desktop\SET 3\13\13\bin\Debug\13.pdb
+C:\Users\girzn\Desktop\SET 3\13\13\obj\Debug\13.csproj.AssemblyReference.cache
+C:\Users\girzn\Desktop\SET 3\13\13\obj\Debug\13.csproj.CoreCompileInputs.cache
+C:\Users\girzn\Desktop\SET 3\13\13\obj\Debug\13.exe
+C:\Users\girzn\Desktop\SET 3\13\13\obj\Debug\13.pdb
